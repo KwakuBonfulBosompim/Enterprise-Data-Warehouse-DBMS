@@ -13,7 +13,7 @@ This repository contains coursework and practice projects for the MSc Data Analy
 - Distributed Databases & Data Governance
 
 ## Structure
-- `/notebooks` : Jupyter notebooks / google colab notebooks for exercises and mini-projects
+- `/notebooks` : Jupyter/Colab notebooks for exercises and mini-projects
 - `/scripts` : SQL scripts and Python scripts
 - `/docs` : Notes, diagrams, and reference materials
 - `/data` : Sample datasets used for exercises
